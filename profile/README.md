@@ -39,9 +39,10 @@ Thank you for considering Eamiq Logics for your software development needs. To e
 ## Get in Touch
 
 Website: [https://www.eamiqlogics.com](https://www.eamiqlogics.com)
+
 Email: contact@eamiqlogics.com
-Phone: [Phone Number]
-Address: [Company Address]
+
+Address: [House#97, P-Block, Sabzazar Housing Society, Lahore, Pakistan](https://goo.gl/maps/Dd3nSGXaBoyiv2176)
 
 Connect with us on [Twitter](https://twitter.com/eamiqlogics) | [LinkedIn](https://www.linkedin.com/company/eamiq-logics) | [Facebook](https://www.facebook.com/eamiqlogics)
 
