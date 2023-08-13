@@ -1,4 +1,4 @@
-# Eamiq Logics: YOUR LOGICS IN DEPTH.
+# Eamiq Logics: YOUR LOGICS IN DEPTH
 
 Welcome to the official repository of Eamiq Logics, a dynamic software development firm committed to driving digital transformation through inventive solutions. This document offers an overview of our company, the services we extend, and instructions to initiate collaboration on our projects.
 
