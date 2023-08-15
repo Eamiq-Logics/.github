@@ -42,7 +42,7 @@ Website: [https://www.eamiqlogics.com](https://www.eamiqlogics.com)
 
 Email: contact@eamiqlogics.com
 
-Address: [97-P, Sabzazar Housing Society, Lahore, Pakistan](https://goo.gl/maps/Dd3nSGXaBoyiv2176)
+Address: [97-P, Sabzazar, Lahore, Pakistan](https://goo.gl/maps/Dd3nSGXaBoyiv2176)
 
 Connect with us on [Twitter](https://twitter.com/eamiqlogics) | [LinkedIn](https://www.linkedin.com/company/eamiq-logics) | [Facebook](https://www.facebook.com/eamiqlogics)
 
